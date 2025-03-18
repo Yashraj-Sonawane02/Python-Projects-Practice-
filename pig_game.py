@@ -1,3 +1,4 @@
+# practice purpose - simple dice game where players roll a dice to accumulate points, but wolling a 1 resets their turn's score , forcing a strategic choice between risk and reward.
 import random
 
 def roll():
