@@ -11,3 +11,6 @@ while True:
     toast.show_toast("Notification" , "Yashraj..Time to drink water..", duration = 5 , icon_path = "waterSYM.ico" , threaded = True)
     speaker.speak("it's time to drink water.")
     time.sleep(10)
+
+
+#https://icon-icons.com/download/68778/ICO/512/ downloaded icon from here fot notification
